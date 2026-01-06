@@ -4,7 +4,7 @@
 
 Hi there 👋
 
-Over the past few years of trying to be self-employed, I've learned a lot. This journey has been truly crazy! Evolving from a nerdy hacker behind the keyboard to an entrepreneurial problem solver.
+Over the past few years of trying and failed to be self-employed, I've learned a lot. This journey has been truly crazy! Evolving from a nerdy hacker behind the keyboard to an entrepreneurial problem solver.
 
 <p>
   <a href="https://davidtheobald.de/">
