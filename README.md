@@ -6,11 +6,6 @@ Hi there 👋
 
 Over the past few years of trying and failed to be self-employed, I've learned a lot. This journey has been truly crazy! Evolving from a nerdy hacker behind the keyboard to an entrepreneurial problem solver.
 
-<p>
-  <a href="https://davidtheobald.de/">
-    <img src="https://www.davidtheobald.de/images/tech-skills.png" width="48%" style="margin-right:4%;" />
-  </a>
-  <a href="https://davidtheobald.de/">
-    <img src="https://www.davidtheobald.de/images/business-skills.png" width="48%" />
-  </a>
-</p>
+My unique value lies in being both a deep-tech engineer and a business-minded professional: a rare combination that allows me to translate complex technology into real business impact and stakeholder value.
+
+I enjoy sharing my knowledge and experiences. Feel free to get in touch or connect with me on [LinkedIn](https://www.linkedin.com/in/t3bld/).
